@@ -1,0 +1,7 @@
+trl==0.4.7
+peft==0.4.0
+tiktoken==0.4.0
+datasets==2.13.1
+accelerate==0.21.0
+bitsandbytes==0.41.0
+transformers==4.30.2
